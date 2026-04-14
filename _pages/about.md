@@ -16,3 +16,10 @@ Feel free to reach out if you have interesting ideas to discuss!
 ### News
 - **[Feb. 2026]** Our paper *"ObjectMorpher"* has been accepted by CVPR 2026!
 - **[2025]** Our paper *"2D Instance Editing in 3D Space"* was accepted by ICCVW 2025!
+
+### Publications
+
+{% include base_path %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
