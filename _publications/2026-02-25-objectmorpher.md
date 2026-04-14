@@ -7,7 +7,7 @@ excerpt: 'A unified framework that lifts 2D image editing into 3D space using 3D
 date: 2026-02-25
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2603.28152'
-citation: 'Xie, Y., Pan, A., Huang, Y., Chang, C., Dai, P., Yu, X., & Qi, X. (2026). ObjectMorpher: 3D-Aware Image Editing via Deformable 3DGS Models. CVPR.'
+citation: '<strong>Yuhuan Xie*</strong>, <a href="https://panaoxuan.github.io/my-website/">Aoxuan Pan*</a>, Yi-Hua Huang†, Chirui Chang, Peng Dai, Xin Yu, Xiaojuan Qi#. (*Equal Contribution, †Project Leader, #Corresponding Author). CVPR 2026.'
 ---
 
 This paper introduces a unified framework that lifts 2D image editing into 3D space using 3D Gaussian Splatting and ARAP constraints for precise, physically sensible object manipulation.
