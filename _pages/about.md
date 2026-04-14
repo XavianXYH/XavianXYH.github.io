@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Yuhuan Xie (Xavian) and I am currently working as a remote Research Assistant at the **University of Hong Kong (HKU)**. I received my Master of Science degree in Electrical and Electronic Engineering from HKU in 2025, and my Bachelor's degree in Communication Engineering from Harbin Engineering University.
+Hi, I am Yuhuan Xie (Xavian) and I am currently working as a Research Assistant at the **University of Hong Kong (HKU)**. I received my Master of Science degree in Electrical and Electronic Engineering from HKU in 2025, and my Bachelor's degree in Communication Engineering from Harbin Engineering University.
 
-I'm particularly interested in AI and generative technologies, including video generation, 3D reconstruction, Diffusion Models, and Gaussian Splatting. 
+I'm particularly interested in AI and generative technologies, including video generation, 3D reconstruction, Diffusion Models, and Gaussian Splatting. To further pursue my passion for these cutting-edge fields, **I am currently seeking Ph.D. opportunities starting in Fall 2027.**
 
-Feel free to reach out if you have interesting ideas to discuss!
+I am always open to collaborations. Feel free to reach out if you have interesting ideas to discuss or if our research interests align!
 
 ### News
 - **[Feb. 2026]** Our paper *"ObjectMorpher"* has been accepted by CVPR 2026!
