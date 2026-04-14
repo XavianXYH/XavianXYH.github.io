@@ -17,13 +17,13 @@ repository               : "XavianXYH/XavianXYH.github.io"
 author:
   # 基础信息
   avatar           : "profile.jpg" # 确保你在 images/ 文件夹下上传了名为 profile.jpg 的照片
-  name             : "Yuhuan Xie"
+  name             : "Yuhuan Xie（谢雨桓）"
   pronouns         : "he/him"  
   bio              : "Research Assistant at HKU. Focusing on 3D Generation, Diffusion Models, and 3DGS."
   location         : "Shenzhen, China"
   employer         : "University of Hong Kong"
   uri              : 
-  email            : "1849640789@qq.com" 
+  email            : "u3636697@connect.hku.hk" 
 
   # 学术网站 (如果你有了链接可以填入，暂时没有的保持留空)
   academia         : 
